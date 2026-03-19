@@ -1,0 +1,5 @@
+{
+  "name": "Kanban Flow",
+  "description": "A clean, efficient Kanban board for managing tasks with drag-and-drop functionality and local persistence.",
+  "requestFramePermissions": []
+}
